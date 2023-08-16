@@ -19,7 +19,7 @@ float multiply(float N1)
 
 float divide(float N1)
     {
-printf("sim")
+printf("sim");
     }
 
 int main()
