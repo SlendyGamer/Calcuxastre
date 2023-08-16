@@ -5,8 +5,13 @@
 
 float add(float N1)
     {
-
-
+        float N2 = 0, Res;
+        printf("Nm:  ");
+        scanf("%f", &N2);
+        Res = N1 + N2;
+        return Res;
+    }
+    
 float subtract(float N1)
     {
 
